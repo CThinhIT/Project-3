@@ -1,0 +1,5 @@
+insert into Categorys values('Auto Safety & Security')
+insert into Categorys values('Garage Tools')
+insert into Categorys values('Headlights & Lighting')
+insert into Categorys values('Interior Accessories')
+insert into Categorys values('Tires & Wheels')
